@@ -71,6 +71,7 @@ header, article, nav, aside {
 
 /* employee card */
 .employee-card {
+    border-radius: 4px;
     margin: 5px;
     position: relative;
     height: 170px;
@@ -124,6 +125,7 @@ header, article, nav, aside {
 }
 
 .employee-card .employee-image {
+    border-radius: 50%;
     height: 110px;
 }
 
